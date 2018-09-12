@@ -1,5 +1,0 @@
-it is a test text a new place
-2line
-add gpl
-a mutable index
-git tracks changes
