@@ -1,2 +1,5 @@
 its a new file
-create in head 
+<<<<<<< HEAD
+=======
+create feature1
+>>>>>>> feature1
